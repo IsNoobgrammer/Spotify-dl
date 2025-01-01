@@ -1,0 +1,5 @@
+pyDes
+yt-dlp
+httpx
+moviepy
+tqdm
